@@ -1,0 +1,5 @@
+com.octo.captcha.image.gimpy
+com.octo.captcha.j2ee
+com.octo.captcha.j2ee.rpc
+com.octo.captcha.j2ee.servlet
+com.octo.utils
